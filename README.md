@@ -2,7 +2,7 @@
 
 <div align="center">
   <br />
-      <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
+      <img width="787" alt="Screenshot 2024-07-16 at 13 36 05" src="https://github.com/user-attachments/assets/bee9c9d3-b941-4879-8294-e665a4cbb22f">
   <br />
 
   <div>

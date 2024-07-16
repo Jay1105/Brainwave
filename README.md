@@ -357,4 +357,4 @@ export default {
 </details>
 
 <h2>🌐 Live Website</h2>
-- [jay1105-brainwave.netlify.app](https://jay1105-brainwave.netlify.app/)
+- https://jay1105-brainwave.netlify.app/
